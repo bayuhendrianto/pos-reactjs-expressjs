@@ -1,0 +1,73 @@
+.document-section {
+  position: relative;
+  top: 15px;
+  margin-bottom: 20px;
+}
+
+.head-document {
+  position: relative;
+  width: 100%;
+  height: 30px;
+  border-radius: 8px;
+  border: 2px solid rgb(163, 163, 163);
+  align-items: center;
+  background-color: rgb(50, 160, 223);
+  cursor: pointer;
+
+  h5 {
+    position: relative;
+    top: 2px;
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+  }
+}
+
+.head-document:hover {
+  position: relative;
+  width: 100%;
+  height: 30px;
+  border-radius: 8px;
+  border: 2px solid rgb(163, 163, 163);
+  align-items: center;
+  background-color: rgb(18, 52, 71);
+  cursor: pointer;
+}
+
+.PhoneInput input{
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+}
+
+.PhoneInput input:focus {
+  outline: none;
+}
+
+// .input-non-active input{
+//     color: #FEFA1D;
+// }
+
+// .input-active input{
+//   color: #ffffff;
+// }
+
+// #input-prop::placeholder {
+//   color: #FEFA1D;
+//   opacity: 1;
+// }
+
+// #input-prop:-ms-input-placeholder {
+//   color: #FEFA1D;
+//   opacity: 1;
+// }
+
+// #input-prop::-ms-input-placeholder {
+//   color: #FEFA1D;
+//   opacity: 1;
+// }
+
+// #input-prop {
+//   caret-color: #FEFA1D;
+//   text-indent: 10px;
+// }

@@ -1,0 +1,20 @@
+.progress-bar.indeterminate {
+   position: relative;
+   animation: progress-indeterminate 1s linear infinite;
+}
+
+@keyframes progress-indeterminate {
+   from {
+      left: -85%;
+      width: 85%;
+   }
+
+   to {
+      left: 100%;
+      width: 25%;
+   }
+}
+
+.bg-image {
+   background-image: url('../../../assets/bg3.png');
+}

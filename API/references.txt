@@ -1,0 +1,11 @@
+https://sequelize.org/docs/v6/other-topics/migrations/#migration-skeleton
+
+https://dev.to/nedsoft/add-new-fields-to-existing-sequelize-migration-3527
+
+https://sequelize.org/docs/v6/core-concepts/raw-queries/
+
+https://github.com/sequelize/cli/issues/860#issuecomment-989947272
+
+https://api-docs.midtrans.com/#customer-details-object
+
+https://www.javainuse.com/onlineBcrypt

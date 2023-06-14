@@ -1,0 +1,26 @@
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+API/npm-debug.log*
+API/yarn-debug.log*
+API/yarn-error.log*
+API/node_modules/
+API/assets/
+API/.env
+
+CORE/npm-debug.log*
+CORE/yarn-debug.log*
+CORE/yarn-error.log*
+CORE/build/
+CORE/node_modules/
+CORE/.env

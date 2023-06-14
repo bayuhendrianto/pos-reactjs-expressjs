@@ -1,0 +1,39 @@
+.PhoneInput input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  // background-color: #00BBFF;
+}
+
+.PhoneInput input:focus {
+  outline: none;
+}
+
+// .input-non-active input {
+//   color: #000000;
+// }
+
+// .input-active input {
+//   color: #000000;
+// }
+
+// #input-prop::placeholder {
+//   color: #FEFA1D;
+//   opacity: 1;
+// }
+
+// #input-prop:-ms-input-placeholder {
+//   color: #FEFA1D;
+//   opacity: 1;
+// }
+
+// #input-prop::-ms-input-placeholder {
+//   color: #FEFA1D;
+//   opacity: 1;
+// }
+
+// #input-prop {
+//   caret-color: #FEFA1D;
+//   text-indent: 10px;
+// }

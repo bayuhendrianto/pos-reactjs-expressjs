@@ -1,0 +1,394 @@
+[
+    {
+        "nama": "Bank Aceh Syariah",
+        "kode": "116"
+    },
+    {
+        "nama": "Bank Aladin Syariah",
+        "kode": "947"
+    },
+    {
+        "nama": "Bank Allo Indonesia",
+        "kode": "567"
+    },
+    {
+        "nama": "Bank Amar Indonesia",
+        "kode": "531"
+    },
+    {
+        "nama": "Bank ANZ Indonesia",
+        "kode": "061"
+    },
+    {
+        "nama": "Bank Artha Graha Internasional",
+        "kode": "037"
+    },
+    {
+        "nama": "Bank Banten",
+        "kode": "137"
+    },
+    {
+        "nama": "Bank BCA Syariah",
+        "kode": "536"
+    },
+    {
+        "nama": "Bank Bengkulu",
+        "kode": "133"
+    },
+    {
+        "nama": "Bank BJB",
+        "kode": "110"
+    },
+    {
+        "nama": "Bank BJB Syariah",
+        "kode": "425"
+    },
+    {
+        "nama": "Bank BNP Paribas Indonesia",
+        "kode": "057"
+    },
+    {
+        "nama": "Bank BPD Bali",
+        "kode": "129"
+    },
+    {
+        "nama": "Bank BPD DIY",
+        "kode": "112"
+    },
+    {
+        "nama": "Bank BRK Syariah",
+        "kode": "119"
+    },
+    {
+        "nama": "Bank BSG",
+        "kode": "127"
+    },
+    {
+        "nama": "Bank BTPN",
+        "kode": "213"
+    },
+    {
+        "nama": "Bank BTPN Syariah",
+        "kode": "547"
+    },
+    {
+        "nama": "Bank Bumi Arta",
+        "kode": "076"
+    },
+    {
+        "nama": "Bank Capital Indonesia",
+        "kode": "054"
+    },
+    {
+        "nama": "Bank Central Asia",
+        "kode": "014"
+    },
+    {
+        "nama": "Bank China Construction Bank Indonesia",
+        "kode": "036"
+    },
+    {
+        "nama": "Bank CIMB Niaga",
+        "kode": "022"
+    },
+    {
+        "nama": "Bank Commonwealth",
+        "kode": "950"
+    },
+    {
+        "nama": "Bank CTBC Indonesia",
+        "kode": "949"
+    },
+    {
+        "nama": "Bank Danamon Indonesia",
+        "kode": "011"
+    },
+    {
+        "nama": "Bank DBS Indonesia",
+        "kode": "046"
+    },
+    {
+        "nama": "Bank Digital BCA",
+        "kode": "501"
+    },
+    {
+        "nama": "Bank DKI",
+        "kode": "111"
+    },
+    {
+        "nama": "Bank Ganesha",
+        "kode": "161"
+    },
+    {
+        "nama": "Bank HSBC Indonesia",
+        "kode": "087"
+    },
+    {
+        "nama": "Bank IBK Indonesia",
+        "kode": "945"
+    },
+    {
+        "nama": "Bank ICBC Indonesia",
+        "kode": "164"
+    },
+    {
+        "nama": "Bank Ina Perdana",
+        "kode": "513"
+    },
+    {
+        "nama": "Bank Index Selindo",
+        "kode": "555"
+    },
+    {
+        "nama": "Bank Jago",
+        "kode": "542"
+    },
+    {
+        "nama": "Bank Jambi",
+        "kode": "115"
+    },
+    {
+        "nama": "Bank Jasa Jakarta",
+        "kode": "472"
+    },
+    {
+        "nama": "Bank Jateng",
+        "kode": "113"
+    },
+    {
+        "nama": "Bank Jatim",
+        "kode": "114"
+    },
+    {
+        "nama": "Bank J Trust Indonesia",
+        "kode": "095"
+    },
+    {
+        "nama": "Bank Kalbar",
+        "kode": "123"
+    },
+    {
+        "nama": "Bank Kalsel",
+        "kode": "122"
+    },
+    {
+        "nama": "Bank Kalteng",
+        "kode": "125"
+    },
+    {
+        "nama": "Bank Kaltimtara",
+        "kode": "124"
+    },
+    {
+        "nama": "Bank KB Bukopin",
+        "kode": "441"
+    },
+    {
+        "nama": "Bank KB Bukopin Syariah",
+        "kode": "521"
+    },
+    {
+        "nama": "Bank KEB Hana Indonesia",
+        "kode": "484"
+    },
+    {
+        "nama": "Bank Krom Indonesia",
+        "kode": "459"
+    },
+    {
+        "nama": "Bank Lampung",
+        "kode": "121"
+    },
+    {
+        "nama": "Bank Maluku Malut",
+        "kode": "131"
+    },
+    {
+        "nama": "Bank Mandiri",
+        "kode": "008"
+    },
+    {
+        "nama": "Bank Mandiri Taspen",
+        "kode": "564"
+    },
+    {
+        "nama": "Bank Maspion",
+        "kode": "157"
+    },
+    {
+        "nama": "Bank Mayapada Internasional",
+        "kode": "097"
+    },
+    {
+        "nama": "Bank Maybank Indonesia",
+        "kode": "016"
+    },
+    {
+        "nama": "Bank Mayora",
+        "kode": "553"
+    },
+    {
+        "nama": "Bank Mega",
+        "kode": "426"
+    },
+    {
+        "nama": "Bank Mega Syariah",
+        "kode": "506"
+    },
+    {
+        "nama": "Bank Mestika Dharma",
+        "kode": "151"
+    },
+    {
+        "nama": "Bank Mizuho Indonesia",
+        "kode": "048"
+    },
+    {
+        "nama": "Bank MNC Internasional",
+        "kode": "485"
+    },
+    {
+        "nama": "Bank Muamalat Indonesia",
+        "kode": "147"
+    },
+    {
+        "nama": "Bank Multiarta Sentosa",
+        "kode": "548"
+    },
+    {
+        "nama": "Bank Nagari",
+        "kode": "118"
+    },
+    {
+        "nama": "Bank Nationalnobu",
+        "kode": "503"
+    },
+    {
+        "nama": "Bank Negara Indonesia",
+        "kode": "009"
+    },
+    {
+        "nama": "Bank Neo Commerce",
+        "kode": "490"
+    },
+    {
+        "nama": "Bank NTB Syariah",
+        "kode": "128"
+    },
+    {
+        "nama": "Bank NTT",
+        "kode": "130"
+    },
+    {
+        "nama": "Bank OCBC NISP",
+        "kode": "028"
+    },
+    {
+        "nama": "Bank of India Indonesia",
+        "kode": "146"
+    },
+    {
+        "nama": "Bank Oke Indonesia",
+        "kode": "526"
+    },
+    {
+        "nama": "Bank Panin",
+        "kode": "019"
+    },
+    {
+        "nama": "Bank Panin Dubai Syariah",
+        "kode": "517"
+    },
+    {
+        "nama": "Bank Papua",
+        "kode": "132"
+    },
+    {
+        "nama": "Bank Permata",
+        "kode": "013"
+    },
+    {
+        "nama": "Bank QNB Indonesia",
+        "kode": "167"
+    },
+    {
+        "nama": "Bank Rakyat Indonesia",
+        "kode": "002"
+    },
+    {
+        "nama": "Bank Raya Indonesia",
+        "kode": "494"
+    },
+    {
+        "nama": "Bank Resona Perdania",
+        "kode": "047"
+    },
+    {
+        "nama": "Bank Sahabat Sampoerna",
+        "kode": "523"
+    },
+    {
+        "nama": "Bank SBI Indonesia",
+        "kode": "498"
+    },
+    {
+        "nama": "Bank Seabank Indonesia",
+        "kode": "535"
+    },
+    {
+        "nama": "Bank Shinhan Indonesia",
+        "kode": "152"
+    },
+    {
+        "nama": "Bank Sinarmas",
+        "kode": "153"
+    },
+    {
+        "nama": "Bank Sulselbar",
+        "kode": "126"
+    },
+    {
+        "nama": "Bank Sulteng",
+        "kode": "134"
+    },
+    {
+        "nama": "Bank Sultra",
+        "kode": "135"
+    },
+    {
+        "nama": "Bank Sumsel Babel",
+        "kode": "120"
+    },
+    {
+        "nama": "Bank Sumut",
+        "kode": "117"
+    },
+    {
+        "nama": "Bank Super Indonesia",
+        "kode": "562"
+    },
+    {
+        "nama": "Bank Syariah Indonesia",
+        "kode": "451"
+    },
+    {
+        "nama": "Bank Tabungan Negara",
+        "kode": "200"
+    },
+    {
+        "nama": "Bank UOB Indonesia",
+        "kode": "023"
+    },
+    {
+        "nama": "Bank Victoria Internasional",
+        "kode": "566"
+    },
+    {
+        "nama": "Bank Victoria Syariah",
+        "kode": "405"
+    },
+    {
+        "nama": "Bank Woori Saudara",
+        "kode": "212"
+    }
+]
