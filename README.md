@@ -3,8 +3,8 @@
 
 # Konfigutasi API
 Konfirgurasi API - Backend
-1. Buka project ./API/Backend di terminal / powershell / etc
-2. Jalankan perintah npm-install
+1. Buka folder ./API di terminal (Command Prompt / powershell / etc)
+2. Jalankan perintah npm install
 3. Tunggu hingga proses install packages selesai
 4. Buat database sesuai dengan yang anda inginkan
 5. Konfigurasi database di projectnya
@@ -16,11 +16,6 @@ Konfirgurasi API - Backend
 6. Jalankan perintah npm run dev (inisial awal untuk mengenerate table di database, jika table sudah terbuat, stop proses)
 7. npx sequelize-cli db:seed:all (ini akan otomatis membuat default user untuk login)
 8. Jalankan perintah npm run dev
-
-NOTE ::: Konfirgurasi API - Storage & Location prosesnya sama dengan konfigurasi API Backend
-
-Untuk API Location jika sudah bisa di running, selanjutnya adalah import databasenya. File database ada di folder ./Database
-
 
 # Konfigurasi Web App (ReactJS)
 1. Buka project ./CORE di terminal
